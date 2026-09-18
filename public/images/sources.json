@@ -1,0 +1,167 @@
+{
+  "destination": "tallinn",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace before production. Do not use Italian Riviera or generic European city leftovers.",
+  "images": [
+    {
+      "file": "hero.jpg",
+      "subject": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "hero-home.jpg",
+      "subject": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "og-default.jpg",
+      "subject": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "cruise-port.jpg",
+      "subject": "Cruise Terminal Signboard, Port of Tallinn 17 July 2021.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Cruise Terminal Signboard, Port of Tallinn 17 July 2021.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "historic.jpg",
+      "subject": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "walking.jpg",
+      "subject": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "subject": "Tallinn Town Hall Square, 2013.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn Town Hall Square, 2013.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "food.jpg",
+      "subject": "Tallinn Town Hall Square, 2013.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn Town Hall Square, 2013.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "coastal.jpg",
+      "subject": "Toompea_Castle.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Toompea_Castle.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "coast.jpg",
+      "subject": "Toompea_Castle.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Toompea_Castle.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "nature.jpg",
+      "subject": "Viru Bog, Parque Nacional Lahemaa, Estonia, 2012-08-12, DD 60.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Viru Bog, Parque Nacional Lahemaa, Estonia, 2012-08-12, DD 60.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "compare.jpg",
+      "subject": "Alexander Nevsky Cathedral, Tallinn.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Alexander Nevsky Cathedral, Tallinn.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "private.jpg",
+      "subject": "Tallinn asv2022-04 img18 Kadriorg Palace.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn asv2022-04 img18 Kadriorg Palace.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "photography.jpg",
+      "subject": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "family.jpg",
+      "subject": "Tallinn asv2022-04 img55 Kadriorg Palace.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn asv2022-04 img55 Kadriorg Palace.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "tallinn-old-town.jpg",
+      "subject": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "toompea.jpg",
+      "subject": "Toompea_Castle.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Toompea_Castle.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "alexander-nevsky.jpg",
+      "subject": "Alexander Nevsky Cathedral, Tallinn.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Alexander Nevsky Cathedral, Tallinn.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "kadriorg.jpg",
+      "subject": "Tallinn asv2022-04 img18 Kadriorg Palace.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn asv2022-04 img18 Kadriorg Palace.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "lahemaa.jpg",
+      "subject": "Viru Bog, Parque Nacional Lahemaa, Estonia, 2012-08-12, DD 60.JPG",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Viru Bog, Parque Nacional Lahemaa, Estonia, 2012-08-12, DD 60.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "market-square.jpg",
+      "subject": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Tallinn - Town Hall Square (Raekoja plats).jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "city-walls.jpg",
+      "subject": "07-06-21-tallinn-by-RalfR-169.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "07-06-21-tallinn-by-RalfR-169.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "viewpoints.jpg",
+      "subject": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "source": "Wikimedia Commons",
+      "wikimedia": "Estonia, Tallinn, Old Town, Rooftops 150422-54.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    }
+  ]
+}

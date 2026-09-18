@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.239Z",
+  "wave": "wave-1d",
+  "port": "tallinn",
+  "destSlug": "tallinn",
+  "displayName": "Tallinn",
+  "counts": {
+    "2026": 29,
+    "2027": 83,
+    "2028_discovery": 63,
+    "2028_published": 0,
+    "public_total": 110,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 4 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 4,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 29,
+      "arrival": 19,
+      "departure": 18,
+      "both": 18,
+      "neither": 10,
+      "pctBoth": 62.1
+    },
+    "2027": {
+      "total": 83,
+      "arrival": 61,
+      "departure": 57,
+      "both": 57,
+      "neither": 22,
+      "pctBoth": 68.7
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}
