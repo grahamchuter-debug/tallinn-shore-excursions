@@ -5,8 +5,7 @@
     "cruiseLine": "Princess Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-05",
@@ -14,8 +13,7 @@
     "cruiseLine": "Phoenix Reisen",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-06",
@@ -32,8 +30,7 @@
     "cruiseLine": "Silversea Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-10",
@@ -41,8 +38,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-12",
@@ -50,8 +46,7 @@
     "cruiseLine": "Norwegian Cruise Line",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-12",
@@ -60,8 +55,7 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "9h"
   },
   {
     "date": "2026-08-12",
@@ -79,8 +73,7 @@
     "arrival": "07:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "9h"
   },
   {
     "date": "2026-08-14",
@@ -114,8 +107,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-26",
@@ -132,8 +124,7 @@
     "cruiseLine": "AIDA",
     "arrival": "11:30",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-27",
@@ -141,8 +132,7 @@
     "cruiseLine": "Hapag Lloyd",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-27",
@@ -151,8 +141,7 @@
     "arrival": "09:00",
     "departure": "16:00",
     "callType": "Port of call",
-    "timeInPort": "7h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "7h"
   },
   {
     "date": "2026-08-27",
@@ -160,8 +149,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2026-08-28",
@@ -259,8 +247,7 @@
     "arrival": "11:00",
     "departure": "23:58",
     "callType": "Port of call",
-    "timeInPort": "12h 58m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "12h 58m"
   },
   {
     "date": "2027-04-13",
@@ -269,8 +256,7 @@
     "arrival": "11:30",
     "departure": "23:58",
     "callType": "Port of call",
-    "timeInPort": "12h 28m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "12h 28m"
   },
   {
     "date": "2027-04-30",
@@ -287,8 +273,7 @@
     "cruiseLine": "AIDA",
     "arrival": "11:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-10",
@@ -315,8 +300,7 @@
     "arrival": "09:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-05-16",
@@ -325,8 +309,7 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-05-21",
@@ -334,8 +317,7 @@
     "cruiseLine": "Celebrity Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-05-21",
@@ -344,8 +326,7 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-05-22",
@@ -389,8 +370,7 @@
     "arrival": "07:00",
     "departure": "20:00",
     "callType": "Port of call",
-    "timeInPort": "13h",
-    "notes": "arrival only"
+    "timeInPort": "13h"
   },
   {
     "date": "2027-05-28",
@@ -434,8 +414,7 @@
     "arrival": "08:00",
     "departure": "23:00",
     "callType": "Port of call",
-    "timeInPort": "15h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "15h"
   },
   {
     "date": "2027-07-02",
@@ -443,8 +422,7 @@
     "cruiseLine": "Silversea Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-04",
@@ -497,8 +475,7 @@
     "arrival": "12:30",
     "departure": "23:00",
     "callType": "Port of call",
-    "timeInPort": "10h 30m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h 30m"
   },
   {
     "date": "2027-07-06",
@@ -506,8 +483,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-07",
@@ -550,8 +526,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-22",
@@ -559,8 +534,7 @@
     "cruiseLine": "Princess Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-23",
@@ -594,8 +568,7 @@
     "cruiseLine": "AIDA",
     "arrival": "11:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-07-28",
@@ -604,8 +577,7 @@
     "arrival": "09:00",
     "departure": "23:59",
     "callType": "Port of call",
-    "timeInPort": "14h 59m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "14h 59m"
   },
   {
     "date": "2027-07-28",
@@ -657,8 +629,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-08-02",
@@ -693,8 +664,7 @@
     "arrival": "08:00",
     "departure": "22:00",
     "callType": "Port of call",
-    "timeInPort": "14h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "14h"
   },
   {
     "date": "2027-08-04",
@@ -703,8 +673,7 @@
     "arrival": "10:00",
     "departure": "18:00",
     "callType": "Port of call",
-    "timeInPort": "8h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "8h"
   },
   {
     "date": "2027-08-05",
@@ -729,8 +698,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-08-06",
@@ -748,8 +716,7 @@
     "arrival": "07:00",
     "departure": "17:00",
     "callType": "Port of call",
-    "timeInPort": "10h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "10h"
   },
   {
     "date": "2027-08-07",
@@ -766,8 +733,7 @@
     "arrival": "08:00",
     "departure": "15:00",
     "callType": "Port of call",
-    "timeInPort": "7h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "7h"
   },
   {
     "date": "2027-08-11",
@@ -810,8 +776,7 @@
     "cruiseLine": "AIDA",
     "arrival": "11:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-08-25",
@@ -864,8 +829,7 @@
     "cruiseLine": "Viking Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-08-29",
@@ -936,8 +900,7 @@
     "cruiseLine": "Carnival Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-09-05",
@@ -945,8 +908,7 @@
     "cruiseLine": "CFC Croisieres",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-09-07",
@@ -954,8 +916,7 @@
     "cruiseLine": "AIDA",
     "arrival": "11:00",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "overnight/next-day timing"
+    "callType": "Port of call"
   },
   {
     "date": "2027-09-29",
@@ -971,8 +932,7 @@
     "cruiseLine": "TUI Cruises",
     "arrival": "",
     "departure": "",
-    "callType": "Port of call",
-    "notes": "port time not found in itinerary"
+    "callType": "Port of call"
   },
   {
     "date": "2027-12-09",
@@ -981,8 +941,7 @@
     "arrival": "12:00",
     "departure": "21:00",
     "callType": "Port of call",
-    "timeInPort": "9h",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "9h"
   },
   {
     "date": "2027-12-13",
@@ -991,7 +950,6 @@
     "arrival": "07:30",
     "departure": "23:59",
     "callType": "Port of call",
-    "timeInPort": "16h 29m",
-    "notes": "port time not found in itinerary"
+    "timeInPort": "16h 29m"
   }
 ]

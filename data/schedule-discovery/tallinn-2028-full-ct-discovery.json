@@ -1,10 +1,599 @@
 {
   "port": "tallinn",
   "year": 2028,
-  "wave": "wave-1d",
+  "wave": "wave-2",
   "filterDecision": "HOLD",
   "filterReason": "validated 4 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
-  "validatedCount": 4,
-  "tier2KeysApplied": [],
-  "total": 63
+  "total": 63,
+  "validatedCount": 0,
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-04-28",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-02",
+      "ship": "AIDAdiva",
+      "cruiseLine": "AIDA",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-07",
+      "ship": "Regal Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-05-09",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-12",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "10:00",
+      "departure": "20:00",
+      "timeInPort": "10h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-05-12",
+      "ship": "Sky Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "09:00",
+      "departure": "21:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-14",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-21",
+      "ship": "Viking Libra",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-26",
+      "ship": "Seabourn Quest",
+      "cruiseLine": "Seabourn",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-26",
+      "ship": "Viking Saturn",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-29",
+      "ship": "Silver Nova",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "07:00",
+      "departure": "13:00",
+      "timeInPort": "6h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-30",
+      "ship": "AIDAdiva",
+      "cruiseLine": "AIDA",
+      "arrival": "11:00",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-05-30",
+      "ship": "Viking Sky",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-31",
+      "ship": "Regal Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-03",
+      "ship": "Viking Sky",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-07",
+      "ship": "Viking Saturn",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-08",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-06-10",
+      "ship": "Viking Mira",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-29",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-29",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "12:00",
+      "departure": "21:00",
+      "timeInPort": "9h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-06-30",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-01",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-01",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "12:00",
+      "departure": "21:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-02",
+      "ship": "Oceania Vista",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-07-05",
+      "ship": "Seabourn Quest",
+      "cruiseLine": "Seabourn",
+      "arrival": "09:00",
+      "departure": "23:00",
+      "timeInPort": "14h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-07-06",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-07-06",
+      "ship": "Oceania Vista",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "11:00",
+      "departure": "17:00",
+      "timeInPort": "6h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-06",
+      "ship": "Regal Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-16",
+      "ship": "Silver Spirit",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-07-18",
+      "ship": "Regal Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-18",
+      "ship": "Silver Nova",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "21:00",
+      "timeInPort": "13h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-19",
+      "ship": "Britannia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-19",
+      "ship": "Viking Saturn",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-20",
+      "ship": "Azamara Journey",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-03",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "timeInPort": "8h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-08-05",
+      "ship": "AIDAmar",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-05",
+      "ship": "Seven Seas Voyager",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-07",
+      "ship": "Azamara Quest",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-08",
+      "ship": "AIDAdiva",
+      "cruiseLine": "AIDA",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-08",
+      "ship": "Viking Vesta",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-09",
+      "ship": "Viking Libra",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-11",
+      "ship": "Silver Nova",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "12:00",
+      "departure": "21:00",
+      "timeInPort": "9h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-08-12",
+      "ship": "Azamara Quest",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "22:00",
+      "timeInPort": "14h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-08-12",
+      "ship": "Regal Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-12",
+      "ship": "Viking Vesta",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-13",
+      "ship": "Viking Libra",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-15",
+      "ship": "Silver Nova",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "07:00",
+      "departure": "13:00",
+      "timeInPort": "6h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-16",
+      "ship": "Seven Seas Mariner",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-08-17",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-01",
+      "ship": "AIDAsol",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-04",
+      "ship": "Crystal Serenity",
+      "cruiseLine": "Crystal Cruises",
+      "arrival": "07:00",
+      "departure": "18:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-04",
+      "ship": "Silver Nova",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-09-06",
+      "ship": "Viking Libra",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-10",
+      "ship": "AIDAmar",
+      "cruiseLine": "AIDA",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-09-10",
+      "ship": "Viking Libra",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-13",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-15",
+      "ship": "Sky Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-09-20",
+      "ship": "AIDAsol",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "timeInPort": "8h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-09-23",
+      "ship": "MSC Splendida",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-09-27",
+      "ship": "Britannia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-07",
+      "ship": "AIDAmar",
+      "cruiseLine": "AIDA",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    },
+    {
+      "date": "2028-10-17",
+      "ship": "AIDAsol",
+      "cruiseLine": "AIDA",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-25",
+      "ship": "AIDAluna",
+      "cruiseLine": "AIDA",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "port time not found in itinerary"
+    }
+  ]
 }
